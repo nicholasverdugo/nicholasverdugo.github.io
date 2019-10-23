@@ -1716,7 +1716,7 @@ body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
 	margin:0;
 }
 .menu-Sp6bN1.alt-3btY0e .item-1GzJrl {
-	margin-left:-30px;
+	margin-left:0px;
 }
 .menu-Sp6bN1 {
 	background:var(--backdrop) !important;
@@ -1724,7 +1724,7 @@ body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
 	background-size:cover !important;
 }
 .popoutBottom-1YbShG[style*="z-index: 1001; overflow: hidden; visibility: visible"]{
-    left:234px!important;
+    left:300px!important;
 }
 .item-1GzJrl {
 	transition:75ms all linear;
